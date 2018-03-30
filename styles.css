@@ -1,0 +1,23 @@
+h1{
+		 color:green;
+		 font-family:comic sans ms;
+		}
+		
+		h2{
+		 color:red;
+		 font-family:Times new roman;
+		}
+		
+		.style1{
+		 color:red;
+		 font-family:comic sans ms;
+		 text-decoration:underline;
+		}
+		
+		#mydiv{
+			height:300px;
+			width:500px;
+			background-color:purple;
+			padding:30px;
+		
+		}
